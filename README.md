@@ -24,6 +24,7 @@ You can write your own challenge script in the `test`` directory
 | --------- | ------------------------------------------ |
 | Fallback  | https://ethernaut.openzeppelin.com/level/1 |
 | Fallout   | https://ethernaut.openzeppelin.com/level/2 |
+| CoinFlip  | https://ethernaut.openzeppelin.com/level/3 |
 | Telephone | https://ethernaut.openzeppelin.com/level/4 |
 
 
