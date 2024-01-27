@@ -26,3 +26,5 @@ You can write your own challenge script in the `test` directory
 | Fallout   | https://ethernaut.openzeppelin.com/level/2 |
 | CoinFlip  | https://ethernaut.openzeppelin.com/level/3 |
 | Telephone | https://ethernaut.openzeppelin.com/level/4 |
+| Token     | https://ethernaut.openzeppelin.com/level/5 |
+| Delegation| https://ethernaut.openzeppelin.com/level/6 |
