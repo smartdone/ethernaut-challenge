@@ -13,10 +13,10 @@ curl -L https://foundry.paradigm.xyz | bash
 # Run tests
 
 ```
-orge test --match-contract TelephoneTest -vvvv
+forge test --match-contract TelephoneTest -vvvv
 ```
 
-You can write your own challenge script in the `test`` directory
+You can write your own challenge script in the `test` directory
 
 # Challenge list
 
@@ -26,10 +26,3 @@ You can write your own challenge script in the `test`` directory
 | Fallout   | https://ethernaut.openzeppelin.com/level/2 |
 | CoinFlip  | https://ethernaut.openzeppelin.com/level/3 |
 | Telephone | https://ethernaut.openzeppelin.com/level/4 |
-
-
-You can donate to me at the address below
-
-```txt
-0xe10dA127bCd3DC6Ba31182AD96dD9b4f541cBD37
-```
