@@ -29,3 +29,4 @@ You can write your own challenge script in the `test` directory
 | Token     | https://ethernaut.openzeppelin.com/level/5 |
 | Delegation| https://ethernaut.openzeppelin.com/level/6 |
 | Force     | https://ethernaut.openzeppelin.com/level/7 |
+| Vault     | https://ethernaut.openzeppelin.com/level/8 |
