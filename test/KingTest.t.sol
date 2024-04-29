@@ -12,12 +12,20 @@ contract KingTest is Test {
 
     function testKing() public {        
         address deployer = address(0x1234);
-        payable(deployer).transfer(50000);
+        payable(deployer).transfer(5 ether);
+        address attacker = address(0x5678);
+        payable(attacker).transfer(5 ether);
         
-        King k = new King{value: 10000}();
-        KingAttack ka  = new KingAttack();
-        ka.getKing{value: 20000}(address(k));
+        vm.prank(deployer);
+        King k = new King{value: 1 ether}();
         console.log("king: %s", k._king());
+        KingAttack ka  = new KingAttack();
+        ka.getKing{value: 2 ether}(address(k));
+        console.log("king: %s", k._king());
+
+        vm.prank(attacker);
+        (bool success,) = address(k).call{value: 3 ether}("");
+        require(!success);
     }
 
     receive() external payable {
