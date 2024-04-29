@@ -20,14 +20,15 @@ You can write your own challenge script in the `test` directory
 
 # Challenge list
 
-| project   | ethernaut link                             |
-| --------- | ------------------------------------------ |
-| Fallback  | https://ethernaut.openzeppelin.com/level/1 |
-| Fallout   | https://ethernaut.openzeppelin.com/level/2 |
-| CoinFlip  | https://ethernaut.openzeppelin.com/level/3 |
-| Telephone | https://ethernaut.openzeppelin.com/level/4 |
-| Token     | https://ethernaut.openzeppelin.com/level/5 |
-| Delegation| https://ethernaut.openzeppelin.com/level/6 |
-| Force     | https://ethernaut.openzeppelin.com/level/7 |
-| Vault     | https://ethernaut.openzeppelin.com/level/8 |
-| King      | https://ethernaut.openzeppelin.com/level/9 |
+| project      | ethernaut link                             |
+| ------------ | ------------------------------------------ |
+| Fallback     | https://ethernaut.openzeppelin.com/level/1 |
+| Fallout      | https://ethernaut.openzeppelin.com/level/2 |
+| CoinFlip     | https://ethernaut.openzeppelin.com/level/3 |
+| Telephone    | https://ethernaut.openzeppelin.com/level/4 |
+| Token        | https://ethernaut.openzeppelin.com/level/5 |
+| Delegation   | https://ethernaut.openzeppelin.com/level/6 |
+| Force        | https://ethernaut.openzeppelin.com/level/7 |
+| Vault        | https://ethernaut.openzeppelin.com/level/8 |
+| King         | https://ethernaut.openzeppelin.com/level/9 |
+| Re-entrancy  | https://ethernaut.openzeppelin.com/level/10|
