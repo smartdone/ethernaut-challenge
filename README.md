@@ -32,3 +32,4 @@ You can write your own challenge script in the `test` directory
 | Vault        | https://ethernaut.openzeppelin.com/level/8 |
 | King         | https://ethernaut.openzeppelin.com/level/9 |
 | Re-entrancy  | https://ethernaut.openzeppelin.com/level/10|
+| Elevator     | https://ethernaut.openzeppelin.com/level/11|
